@@ -2,3 +2,4 @@ Hey my name is Colt Steele.
 I am a youtuber from UK and I make developer videos for you guys.
 Changes made from the master branch
 Some more changes made in the master branch
+Changes made from Friends branch.
